@@ -16,4 +16,5 @@ const PORT = process.env.PORT || 80;
 
 app.listen(PORT, () => {
   console.log(`Successfully Test At ${PORT}`);
+  console.log(`Successfully Test At ${PORT}`);
 });
