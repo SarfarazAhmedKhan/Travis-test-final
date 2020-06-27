@@ -16,4 +16,5 @@ const PORT = process.env.PORT || 80;
 
 app.listen(PORT, () => {
   console.log(`Server Running At ${PORT}`);
+  console.log(`Server Test At ${PORT}`);
 });
